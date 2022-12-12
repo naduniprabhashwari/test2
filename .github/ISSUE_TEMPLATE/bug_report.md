@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-***Report***
+###Report
 
 **Description**
 
@@ -24,7 +24,7 @@ assignees: ''
  - OS: 
  - Browser:
 
-***Analysis***
+###Analysis
 
 **Cause**
 N/A
